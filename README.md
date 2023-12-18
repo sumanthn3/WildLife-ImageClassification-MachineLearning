@@ -1,9 +1,7 @@
 
 # Machine Learning
 
-# Classifying Wildlife Species from
-
-# Camera Trap Images
+# Classifying Wildlife Species from Camera Trap Images
 
 
 **Team:**
