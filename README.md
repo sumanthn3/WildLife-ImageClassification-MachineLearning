@@ -1,28 +1,9 @@
-﻿Final Project
 
-CSCI 6364
+# Machine Learning
 
-Machine Learning
+# Classifying Wildlife Species from
 
-Instructors: Sardar H. & Armin M.
-
-Fall 2023
-
-
-Classifying Wildlife Species 
-
-from 
-
-Camera Trap Images
-
-
-
-
-
-
-
-
-
+# Camera Trap Images
 
 
 **Team:**
