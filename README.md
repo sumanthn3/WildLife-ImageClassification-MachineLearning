@@ -4,7 +4,7 @@
 
 **Team:**
 
-Sumanth Nandeti (G40560437)
+Sumanth Nandeti
 
 Harshini Mandalapu
 
