@@ -2,7 +2,7 @@
 
 # Classifying Wildlife Species from Camera Trap Images
 
-**Team:**
+**Team Members:**
 
 Sumanth Nandeti
 
